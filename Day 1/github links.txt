@@ -1,0 +1,3 @@
+https://github.com/kunalg123/vsdflow.git
+
+https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop.git
