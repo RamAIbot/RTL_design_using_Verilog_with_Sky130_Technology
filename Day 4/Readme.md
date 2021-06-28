@@ -99,7 +99,7 @@ The netlist
 
 GLS
 
-<img src="blocking_caveat_net_sim.PNG" alt="cav"2/>
+<img src="blocking_caveat_net_sim.PNG" alt="cav"/>
 
 Here the GLS works correctly and differs from RTL simulation.
 
